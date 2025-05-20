@@ -9,15 +9,14 @@ ENV PYTHONUNBUFFERED=1
 WORKDIR /app
 
 # Kopiowanie plików zależności
-COPY backend/requirements.txt .
+COPY requirements.txt .
 
 # Instalacja zależności
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Kopiowanie kodu aplikacji
-COPY backend/app ./app
-COPY backend/scripts ./scripts
-COPY backend/.env .
+COPY app ./app
+COPY scripts ./scripts
 
 # Tworzenie katalogów na przesłane pliki i przykładowe dane
 RUN mkdir -p uploads sample_data
