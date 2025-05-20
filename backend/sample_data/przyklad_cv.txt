@@ -1,0 +1,76 @@
+Jan Kowalski
+Senior Full-Stack Developer
+
+Kontakt:
+Email: jan.kowalski@example.com
+Telefon: +48 123 456 789
+LinkedIn: linkedin.com/in/jankowalski
+
+Podsumowanie zawodowe:
+Doświadczony Full-Stack Developer z ponad 5-letnim doświadczeniem w tworzeniu aplikacji webowych. Specjalizuję się w technologiach JavaScript/TypeScript, React, Node.js oraz Python. Posiadam umiejętność pracy w środowisku Agile i doświadczenie w prowadzeniu małych zespołów programistycznych.
+
+Doświadczenie zawodowe:
+
+Senior Full-Stack Developer
+Tech Solutions Sp. z o.o.
+2020 - obecnie
+- Rozwój aplikacji webowych z wykorzystaniem React i Node.js
+- Implementacja architektury mikroserwisowej
+- Optymalizacja wydajności aplikacji
+- Code review i mentoring juniorów
+- Wdrażanie praktyk CI/CD
+
+Full-Stack Developer
+WebDev Company
+2018 - 2020
+- Implementacja funkcjonalności front-end i back-end
+- Integracja z zewnętrznymi API
+- Rozwój aplikacji mobilnych z React Native
+- Utrzymanie i rozwój baz danych SQL i NoSQL
+
+Junior Developer
+StartupTech
+2016 - 2018
+- Rozwój interfejsów użytkownika z wykorzystaniem React
+- Implementacja REST API z wykorzystaniem Express.js
+- Testowanie aplikacji
+
+Wykształcenie:
+
+Magister Informatyki
+Politechnika Warszawska
+2016 - 2018
+
+Inżynier Informatyki
+Politechnika Warszawska
+2012 - 2016
+
+Umiejętności techniczne:
+- Języki programowania: JavaScript, TypeScript, Python, HTML, CSS
+- Frontend: React, Redux, Angular, Vue.js
+- Backend: Node.js, Express, FastAPI, Django
+- Bazy danych: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Kubernetes, AWS, CI/CD
+- Narzędzia: Git, Jira, Confluence, Webpack
+- Metodologie: Agile, Scrum, TDD
+
+Języki:
+- Polski - ojczysty
+- Angielski - biegły (C1)
+- Niemiecki - podstawowy (A2)
+
+Certyfikaty:
+- AWS Certified Developer - Associate
+- MongoDB Certified Developer
+- Certified Scrum Master
+
+Projekty:
+- E-commerce platform - aplikacja do zarządzania sklepem internetowym
+- CRM system - system do zarządzania relacjami z klientami
+- Task management tool - narzędzie do zarządzania zadaniami w zespole
+
+Zainteresowania:
+- Nowe technologie
+- Open source
+- Sztuczna inteligencja
+- Podróże

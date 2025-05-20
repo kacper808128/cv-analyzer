@@ -1,0 +1,60 @@
+Senior Full-Stack Developer
+Innowacyjne Rozwiązania IT
+
+O firmie:
+Innowacyjne Rozwiązania IT to dynamicznie rozwijająca się firma z branży IT, specjalizująca się w tworzeniu nowoczesnych aplikacji webowych i mobilnych dla klientów z różnych sektorów. Nasz zespół składa się z doświadczonych specjalistów, którzy cenią sobie profesjonalizm, kreatywność i innowacyjne podejście do rozwiązywania problemów.
+
+Opis stanowiska:
+Poszukujemy doświadczonego Senior Full-Stack Developera, który dołączy do naszego zespołu i weźmie udział w rozwoju zaawansowanych aplikacji webowych. Osoba na tym stanowisku będzie odpowiedzialna za projektowanie, implementację i utrzymanie aplikacji, współpracę z zespołem UX/UI oraz udział w podejmowaniu kluczowych decyzji technologicznych.
+
+Obowiązki:
+- Rozwój aplikacji webowych z wykorzystaniem nowoczesnych technologii
+- Implementacja nowych funkcjonalności zarówno po stronie front-end, jak i back-end
+- Optymalizacja wydajności istniejących rozwiązań
+- Code review i zapewnienie wysokiej jakości kodu
+- Współpraca z zespołem UX/UI przy projektowaniu interfejsów użytkownika
+- Udział w planowaniu sprintów i estymacji zadań
+- Mentoring dla mniej doświadczonych członków zespołu
+
+Wymagania:
+- Minimum 3 lata doświadczenia w rozwoju aplikacji webowych
+- Bardzo dobra znajomość JavaScript/TypeScript, React i Node.js
+- Doświadczenie z bazami danych SQL (PostgreSQL) i NoSQL (MongoDB)
+- Znajomość konteneryzacji (Docker) i orkiestracji (Kubernetes)
+- Doświadczenie w pracy z systemami kontroli wersji (Git)
+- Znajomość praktyk CI/CD
+- Umiejętność pracy w metodologii Agile/Scrum
+- Wykształcenie wyższe techniczne (informatyka lub pokrewne)
+- Bardzo dobra znajomość języka angielskiego
+
+Mile widziane:
+- Doświadczenie z Python i frameworkami (Django, FastAPI)
+- Znajomość AWS lub innych platform chmurowych
+- Doświadczenie w pracy z mikroserwisami
+- Certyfikaty techniczne (AWS, MongoDB, itp.)
+- Znajomość GraphQL
+- Doświadczenie w prowadzeniu zespołu
+
+Oferujemy:
+- Atrakcyjne wynagrodzenie adekwatne do umiejętności i doświadczenia
+- Elastyczne godziny pracy i możliwość pracy zdalnej
+- Prywatną opiekę medyczną i kartę sportową
+- Budżet szkoleniowy i możliwość rozwoju zawodowego
+- Pracę przy ciekawych i ambitnych projektach
+- Przyjazną atmosferę pracy w dynamicznym zespole
+- Nowoczesny sprzęt komputerowy
+
+Umiejętności techniczne:
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Python
+- SQL
+- NoSQL
+- Docker
+- Kubernetes
+- CI/CD
+- Git
+- REST API
+- Agile/Scrum
